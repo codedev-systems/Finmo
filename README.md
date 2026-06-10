@@ -10,3 +10,6 @@
 
 <h2>Como executar o projeto?</h2>
 <p>Após baixar o projeto para sua máquina, abra o cmd/terminal, navegue até o diretório do projeto e execute o seguinte comando: <pre><code>npm start</code></pre></p>
+
+<h2>Experimente de forma simplificada</h2>
+<p>Quer testar o projeto sem precisar de download? Acesse: <a href="https://finmo.codedev-tech.com.br/" target="_blank">Finmo</a></p>
